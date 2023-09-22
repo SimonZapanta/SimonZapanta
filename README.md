@@ -1,4 +1,4 @@
 •Knowledge in Programming
 • HTML / CSS / JavaScript
 •Python
-Creating my own portfolio
+• Creating my own portfolio
